@@ -1,5 +1,5 @@
 import sys, os
-sys.path.append(os.getcwd() + "/libtcodpy")
+#sys.path.append(os.getcwd() + "/libtcodpy")
 
 import libtcodpy as libtcod
 import math
